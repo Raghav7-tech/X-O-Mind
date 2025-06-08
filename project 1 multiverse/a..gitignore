@@ -1,0 +1,16 @@
+.replit
+*.replit
+.replit.db
+.replit-storage/
+.replit-hidden/
+
+*.o
+*.out
+*.exe
+
+.vscode/
+.idea/
+
+*.log
+*.tmp
+*~
